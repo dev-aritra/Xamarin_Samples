@@ -1,5 +1,5 @@
 # Xamarin Samples
-A cumulative library of a couple of the Xamarin Sample projects developed by me
+A cumulative library of a couple of the Xamarin Sample projects.
 
 ## List of samples
   - [Working with Google map](XF_GoogleMap)
