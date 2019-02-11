@@ -1,4 +1,4 @@
-# Xamarin_Samples
+# Xamarin Samples
 A cumulative library of a couple of the Xamarin Sample projects developed by me
 
 ## List of samples
