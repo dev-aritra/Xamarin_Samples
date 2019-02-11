@@ -2,6 +2,7 @@
 This a sample project on how to work with Google maps, and has some extra features
 
 <br/>
+
 ![demo](img/sc.jpg)
 
 ## How to develop
