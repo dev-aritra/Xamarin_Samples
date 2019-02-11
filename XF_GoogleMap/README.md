@@ -11,6 +11,7 @@ https://gameofthreads.online/custom-markers-and-latitude-longitude-bounds-on-goo
 
 ### Using this repo
 * You can clone this repo and run the project in Visual Studio
+* This project is a subproject to [Xamarin_Samples](https://github.com/dev-aritra/Xamarin_Samples/) repo. So in order to clone this prpject only, go to [Xamarin_Samples](https://github.com/dev-aritra/Xamarin_Samples/) and clone the XF_GoogleMap folder using [GitZip](https://kinolien.github.io/gitzip/). Or you can always clone the whole [Xamarin_Samples](https://github.com/dev-aritra/Xamarin_Samples/) repo.
 
 ## Features
 1. Custom markers from native images(auto resizable)
