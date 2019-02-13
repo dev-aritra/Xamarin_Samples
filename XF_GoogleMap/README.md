@@ -7,7 +7,7 @@ This a sample project on how to work with Google maps, and has some extra featur
 
 ## How to develop
 Read the compleget guide here
-https://gameofthreads.online/custom-markers-and-latitude-longitude-bounds-on-google-maps
+https://gameofthreads.online/custom-markers-and-latitude-longitude-bounds-on-google-maps-xamarin-forms/
 
 ### Using this repo
 * You can clone this repo and run the project in Visual Studio
