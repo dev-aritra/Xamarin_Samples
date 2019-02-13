@@ -3,7 +3,7 @@ This a sample project on how to work with Google maps, and has some extra featur
 
 <br/>
 
-![demo](img/sc.jpg)
+![demo](img/sc.png)
 
 ## How to develop
 Read the compleget guide here
