@@ -4,7 +4,7 @@ Xamarin forms IBM Watson conversation(Chatbot) project, which runs on Android, i
 ![Screenshot](https://github.com/dev-aritra/XFWatsonDemoProj/blob/master/pic/Screenshot%20(19).png)
 
 ## How to build
-Read the compleget guide here
+Read the complete guide here
 https://gameofthreads.online/ibm-watson-and-xamarin-forms/
 
 ### Using this repo
