@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XFWatsonDemo"
+             xmlns:local1="clr-namespace:XFWatsonDemo.ChatCellUI"
+             x:Class="XFWatsonDemo.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local1:ChatBotDataTemplateSelector x:Key="MessageTemplateSelector"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Grid
+            RowSpacing="0" ColumnSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <ListView
+                IsVisible="True"
+                Grid.Row="0"
+                SelectionMode="None"
+                x:Name="MessagesList"
+                ItemTemplate="{StaticResource MessageTemplateSelector}"
+                ItemsSource="{Binding Messages}"
+                HasUnevenRows="True"
+                SeparatorVisibility="None"/>
+            <StackLayout 
+                VerticalOptions="End"
+                Grid.Row="1"
+                         Orientation="Horizontal"
+                         Padding="10"
+                         BackgroundColor ="#EFEFEF">
+                <Entry
+                    HorizontalOptions="FillAndExpand"
+                    HeightRequest="25"
+                    Placeholder="Message"
+                    Text="{Binding OutGoingText}"/>
+                <Button
+                    Text="Send"
+                    Command="{Binding SendCommand}"/>
+            </StackLayout>
+        </Grid>
+
+    </ContentPage.Content>
+
+</ContentPage>
