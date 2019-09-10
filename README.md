@@ -12,4 +12,4 @@ Check out [GitZip](https://kinolien.github.io/gitzip/) to know how you can clone
 
 ## Author
 
-* **Aritra Das** -[twitter](https://twitter.com/aritra__das)
+* **Aritra Das** - [twitter](https://twitter.com/aritra__das)
