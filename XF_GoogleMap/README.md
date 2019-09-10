@@ -22,4 +22,4 @@ https://medium.com/@dev.aritradas/using-custom-markers-and-latitude-longitude-bo
 
 ## Author
 
-* **Aritra Das** -[twitter](https://twitter.com/aritra__das)
+* **Aritra Das** - [twitter](https://twitter.com/aritra__das)
