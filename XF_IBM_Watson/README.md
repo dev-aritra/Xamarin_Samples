@@ -21,4 +21,4 @@ https://medium.com/@dev.aritradas/https-medium-com-dev-aritradas-ibm-watson-and-
 
 ## Author
 
-* **Aritra Das** -[twitter](https://twitter.com/aritra__das)
+* **Aritra Das** - [twitter](https://twitter.com/aritra__das)
