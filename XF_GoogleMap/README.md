@@ -6,7 +6,7 @@ This a sample project on how to work with Google maps, and has some extra featur
 ![demo](img/sc.png)
 
 ## How to develop
-Read the compleget guide here
+Read the compleget guide here<br/>
 https://medium.com/@dev.aritradas/using-custom-markers-and-latitude-longitude-bounds-in-google-maps-on-xamarin-forms-690babde96ff
 
 ### Using this repo
